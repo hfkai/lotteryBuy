@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="normal_black">#000000</color>
+    <color name="unblack">#e0000000</color>
+    <color name="text_self">#767676</color>
+    <color name="iem_gray2">#EEEEEE</color>
+    <color name="cs_title_bg">#F9F9F9</color>
+    <color name="gray">#737373</color>
+    <color name="select_gray">#d2d2d2</color>
+    <color name="iem_gray">#DADCD9</color>
+    <color name="gray_iem">#FF636363</color>
+    <color name="a1">#A1A1A1</color>
+    <color name="iem_gray3">#6B6B6B</color>
+    <color name="iem_gray4">#F9F9F9</color>
+    <color name="iem_gray5">#E8E8E8</color>
+    <color name="gray6">#7F7F7F</color>
+    <color name="normal_red">#D20B00</color>
+    <color name="red">#D90000</color>
+    <color name="deep_red">#AD0D0D</color>
+    <color name="pick">#F9F2F2</color>
+    <color name="dropdown_nor_color">#35485A</color>
+    <color name="dropdown_press_color">#273646</color>
+    <color name="province_line_border">@android:color/white</color>
+    <color name="line">#e7e7e7</color>
+    <color name="white">#ffffff</color>
+    <color name="color_hint">#d9d8d8</color>
+    <color name="green">#79CDCD</color>
+    <color name="lineGrayColor">#ffb2b2b2</color>
+    <color name="normal_orange">#FF9402</color>
+    <color name="pressed_orange">#EF8122</color>
+    <color name="green_normal">#6D6853</color>
+    <color name="deep_green_pressed">#52503E</color>
+    <color name="btn_bg_normal">#F46565</color>
+    <color name="btn_bg_pressed">#E05050</color>
+
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="white_in_red_bg">#FFEBEE</color>
+    <color name="hint_text_color">#ff999999</color>
+
+    <!-- 支付 -->
+    <color name="pay_img_color1">#8bb8e7</color>
+    <color name="pay_btn_color">#21c031</color>
+    <color name="pay_btn_color2">#18b4ed</color>
+    <color name="pay_xian_color">#fde095</color>
+    <color name="pay_ok_text">#f7262c</color>
+    <color name="text_black_color">#383838</color>
+    <color name="item_normal">#00000000</color>
+    <color name="table_line_color">#e6e6e9</color>
+    <color name="gray_color2">#ccccce</color>
+    <color name="gray_color4">#dddddd</color>
+    <color name="transparent">#00000000</color>
+    <color name="top_title_color">#565656</color>
+    <color name="top">#43000000</color>
+    <color name="blue">#00BFFF</color>
+    <color name="top_background_color">#5eadff</color>
+    <!-- 银色 -->
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="transparent2">#50000000</color>
+    <!--分享-->
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="delete_price">#dadada</color>
+    <color name="gray_my">#f1f1f3</color>
+
+    <color name="view_color">#DEDEDE</color>
+</resources>

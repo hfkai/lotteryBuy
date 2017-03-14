@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/iem_gray2"
+    >
+
+    <EditText
+        android:id="@+id/etNumber"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="32dp"
+        android:background="@color/white"
+        android:hint="请输入注数"
+        android:inputType="number"
+        android:layout_marginLeft="10dp"
+        android:lines="1"
+        android:maxLength="11"
+        android:singleLine="true"
+        android:textSize="15sp" />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/btn_red_bg"
+        android:onClick="doLogin"
+        android:layout_below="@+id/etNumber"
+        android:text="计算"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/result_tv"
+        android:text="计算结果："
+        android:layout_below="@+id/btn"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>
